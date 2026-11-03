@@ -1,0 +1,18 @@
+{
+  "name": "genpark-personal-agent-cardiac-left-atrial-strain-speckle-tracking-skill",
+  "version": "1.0.0",
+  "description": "Calculates 2D speckle-tracking left atrial reservoir strain (LASr%), conduit strain (LAScd%), booster pump strain (LASct%), and LA stiffness index to evaluate diastolic filling pressures and heart failure risk.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "mcp": "mcp_server.py",
+  "categories": [
+    "personal-agent",
+    "cardiac",
+    "echocardiography",
+    "left-atrial-strain",
+    "diastolic-function",
+    "speckle-tracking"
+  ],
+  "dependencies": []
+}
